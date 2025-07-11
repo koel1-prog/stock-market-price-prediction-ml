@@ -25,7 +25,7 @@ This project predicts the stock price of Tata Consultancy Services (TCS) using a
 ## Visualization
 
 The model output includes a plot comparing the actual vs predicted closing prices on the test set, showing a strong alignment between predictions and reality.
-![Actual vs Predicted Close Price](images/plot.png)
+![Actual vs Predicted Close Price](./stock-market-plot.jpg)
 ## How to Run
 
 1. Open the [Google Colab Notebook](YOUR_COLAB_NOTEBOOK_LINK_HERE).  
