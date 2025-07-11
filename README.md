@@ -28,7 +28,7 @@ The model output includes a plot comparing the actual vs predicted closing price
 ![Actual vs Predicted Close Price](./stock-market-plot.jpg)
 ## How to Run
 
-1. Open the [Google Colab Notebook](YOUR_COLAB_NOTEBOOK_LINK_HERE).  
+1. Open the [Google Colab Notebook](./stock-market-prediction.ipynb).  
 2. Run the notebook sequentially to reproduce the results.  
 3. No setup needed locally as all dependencies are managed in Colab.
 
