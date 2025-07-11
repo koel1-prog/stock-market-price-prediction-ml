@@ -1,6 +1,6 @@
 # TCS Stock Price Prediction Using Optimized LSTM
 
-This project predicts the stock price of Tata Consultancy Services (TCS) using a Long Short-Term Memory (LSTM) neural network. The model is trained on 10 years of historical stock data fetched from Yahoo Finance via the `yfinance` library. The implementation is done in a Google Colab notebook, which is uploaded alongside this repo.
+This project predicts the stock price of Tata Consultancy Services (TCS) using Long Short-Term Memory (LSTM) neural network. The model is trained on 10 years of historical stock data fetched from Yahoo Finance via the `yfinance` library. The implementation is done in a Google Colab notebook, which is uploaded alongside this repo.
 
 ## Dataset
 
